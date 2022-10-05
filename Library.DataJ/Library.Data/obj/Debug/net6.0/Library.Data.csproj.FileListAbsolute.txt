@@ -1,0 +1,12 @@
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\Library.Data.csproj.AssemblyReference.cache
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfoInputs.cache
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfo.cs
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\bin\Debug\net6.0\Library.Data.deps.json
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\bin\Debug\net6.0\Library.Data.dll
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\bin\Debug\net6.0\Library.Data.pdb
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\Library.Data.dll
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\refint\Library.Data.dll
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+C:\Users\vytau\source\repos\Library.DataJ\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll
